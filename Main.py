@@ -1,8 +1,8 @@
 # This file has the GUI and the running process.
-from PIL import ImageTk,Image
-from cart_list import Cart
 import tkinter as tk
+from PIL import ImageTk,Image
 import cv2
+from cart_list import Cart
 from Class_NN import NN
 
 
